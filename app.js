@@ -3,6 +3,8 @@ const chalk     = require('chalk');
 const yargs     = require('yargs');
 const notes     = require('./note.js');
 
+// HI AM OMAR
+
 
 // Functionality: add, remove, read, list
 
