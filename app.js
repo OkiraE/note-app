@@ -3,6 +3,7 @@ const chalk     = require('chalk');
 const yargs     = require('yargs');
 const notes     = require('./note.js');
 
+// yes, again
 // Functionality: add, remove, read, list
 
 // node app.js add --title="Your Title"
