@@ -72,3 +72,4 @@ yargs.command({
 // console.log(yargs.argv) === yargs.parse()
 
 yargs.parse();
+debugger;
