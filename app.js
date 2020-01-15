@@ -3,8 +3,6 @@ const chalk     = require('chalk');
 const yargs     = require('yargs');
 const notes     = require('./note.js');
 
-// This is a test for the Github repo
-
 
 // Functionality: add, remove, read, list
 
